@@ -1,1 +1,1 @@
-GUI project for clincal research database
+Building GUI project for clincal research database
