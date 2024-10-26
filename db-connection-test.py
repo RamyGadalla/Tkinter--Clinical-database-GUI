@@ -1,4 +1,4 @@
-__author__ = 'silvianittel'
+__author__ = 'Ramy Gadalla'
 __copyright__ = "Copyright 2021, SIE557"
 __version__ = "1.0"
 __date__ = "03/18/2021"
